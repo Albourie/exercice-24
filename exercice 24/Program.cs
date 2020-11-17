@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*
+ * clone exercice 24
+*/using System;
 
 
 namespace exercice_24
