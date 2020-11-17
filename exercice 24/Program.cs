@@ -10,6 +10,7 @@ namespace exercice_24
         static void Main(string[] args)
         {
             // declaration
+
             double température, min, max;
 
             // saisi de la première température 
